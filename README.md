@@ -1,5 +1,3 @@
 # AdventOfCode2022
 
-[ x ] Day One
-
-[ x ] Day Two
+3/25 done !
